@@ -5,7 +5,7 @@ package com.anjoyo.gaodemap;
 
 import com.amap.api.cloud.model.LatLonPoint;
 import com.amap.api.maps.model.LatLng;
-
+//wer
 public class AMapUtil {
 
 
