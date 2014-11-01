@@ -52,7 +52,7 @@ public class MainActivity extends Activity implements OnMarkerClickListener,
 	private Marker mCloudIDMarer;
 	private String TAG = "AMapYunTuDemo";
 	private ArrayList<CloudItem> items = new ArrayList<CloudItem>();
-
+	//大HIA
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
